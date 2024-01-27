@@ -1,0 +1,6 @@
+ultraltyics
+Pillow
+streamlit
+numpy
+ipython
+pyyaml
